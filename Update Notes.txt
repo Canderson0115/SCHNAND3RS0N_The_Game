@@ -1,0 +1,37 @@
+______________________
+
+     Update Notes
+______________________
+
+0.0.9
+	- Fixed end of level (it previously made Sub not reappear in the next level)
+
+0.0.8.1
+	- Added start of next few levels
+	- Minor polish to 1-1
+	- Started end animation
+	- Started Boss Fight 1 vs Pop Tart (Toaster Pastry)
+
+0.0.8
+	- Finished 1-1 v1.0 :D
+	- Added sub-screens
+	- Added autoscrolling
+	- Fixed edge grabbing
+	- Added air grab bug :I
+
+0.0.7	- Completed first cutscene
+	- Added Cave theme
+	- Fixed angry Vienna Sausage
+	- Added Trey Phone
+	- Various bug fixes
+	- Various new bugs :I
+
+0.0.6.2 - Completed part of first cutscene
+	- Made angry Viennas that chase Sub if you let them notice you; run to the right
+		on 1-1 screen 2 to find one (Edit: No longer true)
+
+0.0.6.1 - Started work on cutscenes and entity behaviors
+
+0.0.6	- Added saving, loading, and deleting save files
+
+0.0.5	- Added working menus :)
